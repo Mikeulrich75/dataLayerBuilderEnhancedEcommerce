@@ -11,7 +11,7 @@ ___INFO___
 {
   "displayName": "dataLayer Builder + Enhanced Ecommerce",
   "categories": ["CONVERSIONS", "ANALYTICS", "UTILITY"],
-  "description": "This is the unofficial Google Enhanced Ecommerce dataLayer builder template. Build all of the EE dataLayers using dropdown functionality with the ability to add custom parameters.",
+  "description": "This custom template gives you the ability to build any of Google's Enhanced Ecommerce dataLayers, with easy to use dropdown functionality, and the ability to add as many custom parameters as you want.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
