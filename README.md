@@ -1,5 +1,5 @@
 # dataLayer Builder + Enhanced Ecommerce
-This is the unofficial Google Enhanced Ecommerce dataLayer builder template. Build all of the EE dataLayers using dropdown functionality with the ability to add custom params.
+This is the unofficial Google Enhanced Ecommerce dataLayer builder template. Build all of the EE dataLayers using dropdown functionality with the ability to add custom parameters.
 
 # Author
 Michael Ulrich (https://www.wpromote.com/).
