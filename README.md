@@ -10,16 +10,18 @@ Michael Ulrich (https://www.wpromote.com/).
 | 29 August 2019 | First version of the tag released. |
 
 # Description
-This template has many adjustable fields that allow you to add your data directly into the properly formated EE dataLayer.
+Important: This template will only work if the dataLayer used on the site hasn't been changed to a custom dataLayer name
 
-The Event Parameter field allows you to set the event that fires the dataLayer.
+-This template has many adjustable fields that allow you to add your data directly into the properly formated EE dataLayer.
 
-The EE Event Type field allows you to select the Enhanced Ecommerce dataLayer type that you will push all of your parameters into.
+-The Event Parameter field allows you to set the event that fires the dataLayer.
 
-The Currency Parameter field allows you to add the currency into your dataLayer.
+-The EE Event Type field allows you to select the Enhanced Ecommerce dataLayer type that you will push all of your parameters into.
 
-The Actionfield Object Parameters field allows you to add any of the standard actionField parameters into your dataLayer.
+-The Currency Parameter field allows you to add the currency into your dataLayer.
 
-The Product/Promo Object field allows you to add the product array variable that contains your product data into the dataLayer.
+-The Actionfield Object Parameters field allows you to add any of the standard actionField parameters into your dataLayer.
 
-The Custom Parameters field allows you to add any custom parameters into your dataLayer.
+-The Product/Promo Object field allows you to add the product array variable that contains your product data into the dataLayer.
+
+-The Custom Parameters field allows you to add any custom parameters into your dataLayer.
