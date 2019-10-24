@@ -14,5 +14,5 @@
 homepage: "https://www.wpromote.com"
 documentation: "https://github.com/Mikeulrich75/dataLayerBuilderEnhancedEcommerce/blob/master/README.md"
 versions:
-  - sha: b498f65617e4a0638be68a22499522ccf0e61c7f
+  - sha: 81e10709ee6cd35180fab16353d932f1991ae1b4
     changeNotes: Initial Version
