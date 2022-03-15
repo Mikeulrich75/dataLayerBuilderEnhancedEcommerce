@@ -2,7 +2,7 @@
 This custom template gives you the ability to build any of Google's Enhanced Ecommerce dataLayers, with easy to use dropdown functionality, and the ability to add as many custom parameters as you want.
 
 # Author
-Michael Ulrich (https://www.wpromote.com/).
+[Michael Ulrich](https://github.com/Mikeulrich75)
 
 # Release Notes
 | Date | Notes |
